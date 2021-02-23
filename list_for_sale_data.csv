@@ -1,0 +1,201 @@
+,prop_type,last_update,prop_status,address.city,address.county,address.postal_code,address.lat,address.lon,price
+0,condo,2021-02-15T17:12:37Z,for_sale,Bell,Los Angeles,90201,33.981169,-118.190082,49999.0
+1,single_family,2021-02-15T17:12:37Z,for_sale,Orange,Orange,92867,33.79992,-117.831847,679000.0
+2,condo,2021-02-15T17:12:37Z,for_sale,Hawaiian Gardens,Los Angeles,90716,33.82873,-118.069232,400000.0
+3,single_family,2021-02-15T19:14:33Z,for_sale,Eureka,Humboldt,95501,40.784328,-124.17537,280000.0
+4,condo,2021-02-15T17:12:19Z,for_sale,Woodland Hills,Los Angeles,91367,34.171479,-118.601322,349000.0
+5,multi_family,2021-02-16T01:18:07Z,for_sale,Stockton,San Joaquin,95210,38.031112,-121.316328,
+6,condo,2021-02-15T19:14:14Z,for_sale,Alhambra,Los Angeles,91801,34.093267,-118.124496,595000.0
+7,multi_family,2021-02-15T17:12:37Z,for_sale,Covina,Los Angeles,91723,34.088833,-117.877805,2000000.0
+8,single_family,2021-02-16T01:04:29Z,for_sale,Antioch,Contra Costa,94509,38.000935,-121.798692,400000.0
+9,single_family,2021-02-16T01:12:43Z,for_sale,Oakland,Alameda,94605,37.756171,-122.159462,595000.0
+10,condo,2021-02-15T17:11:33Z,for_sale,Palm Springs,Riverside,92264,33.792794,-116.53125,719000.0
+11,single_family,2021-02-16T01:10:40Z,for_sale,Truckee,Nevada,96161,39.346209,-120.251118,709000.0
+12,single_family,2021-02-15T17:12:48Z,for_sale,Lake Arrowhead,San Bernardino,92352,34.238795,-117.189391,249900.0
+13,single_family,2021-02-16T01:07:05Z,for_sale,Kernville,Kern,93238,35.756798,-118.43013,279000.0
+14,single_family,2021-02-15T19:10:17Z,for_sale,Hanford,Kings,93230,36.347798,-119.634398,249500.0
+15,single_family,2021-02-15T17:05:21Z,for_sale,Victorville,San Bernardino,92394,34.520983,-117.363475,329900.0
+16,multi_family,2021-02-16T01:08:32Z,for_sale,San Francisco,San Francisco,94123,37.794805,-122.444966,7600000.0
+17,condo,2021-02-15T19:04:13Z,for_sale,Beaumont,Riverside,92223,33.933151,-116.978994,264999.0
+18,single_family,2021-02-15T17:04:00Z,for_sale,East Garrison,Monterey,93933,36.652647,-121.739062,849000.0
+19,condo,2021-02-15T17:05:21Z,for_sale,Chula Vista,San Diego,91911,32.627696,-117.051261,519900.0
+20,single_family,2021-02-15T16:58:11Z,for_sale,Moreno Valley,,92553,33.922855,-117.242963,483265.0
+21,single_family,2021-02-15T17:05:21Z,for_sale,Chula Vista,San Diego,91910,32.642782,-117.00459,519900.0
+22,single_family,2021-02-15T17:05:21Z,for_sale,Manhattan Beach,Los Angeles,90266,33.89472,-118.399308,1650000.0
+23,condo,2021-02-15T17:05:21Z,for_sale,Ventura,Ventura,93003,34.266162,-119.243501,362900.0
+24,condo,2021-02-16T00:55:16Z,for_sale,Mammoth Lakes,Mono,93546,37.635784,-118.990456,649000.0
+25,condo,2021-02-15T16:59:45Z,for_sale,Los Angeles,Los Angeles,90064,34.048213,-118.418248,899000.0
+26,single_family,2021-02-15T16:57:53Z,for_sale,San Jose,Santa Clara,95127,37.380213,-121.819176,1599988.0
+27,single_family,2021-02-16T00:55:27Z,for_sale,San Diego,San Diego,92123,32.798532,-117.116554,780000.0
+28,condo,2021-02-16T00:56:55Z,for_sale,San Diego,San Diego,92101,32.714169,-117.168266,549000.0
+29,multi_family,2021-02-16T00:57:11Z,for_sale,Stockton,San Joaquin,95210,38.032298,-121.317079,
+30,condo,2021-02-15T16:55:50Z,for_sale,Concord,Contra Costa,94520,37.964392,-122.037825,398888.0
+31,single_family,2021-02-15T16:51:49Z,for_sale,Moreno Valley,,92553,33.922855,-117.242963,476235.0
+32,single_family,2021-02-15T16:51:49Z,for_sale,Moreno Valley,,92553,33.922855,-117.242963,527020.0
+33,single_family,2021-02-15T16:51:49Z,for_sale,Long Beach,Los Angeles,90805,33.857348,-118.190107,575000.0
+34,single_family,2021-02-15T16:51:49Z,for_sale,Ontario,San Bernardino,91764,34.082699,-117.649313,649000.0
+35,single_family,2021-02-15T16:51:49Z,for_sale,Arcadia,Los Angeles,91007,34.140372,-118.064203,2280000.0
+36,condo,2021-02-15T16:58:11Z,for_sale,Newport Beach,Orange,92660,33.612327,-117.842968,1995000.0
+37,single_family,2021-02-16T00:53:40Z,for_sale,Fremont,Alameda,94555,37.580474,-122.047984,1098000.0
+38,single_family,2021-02-15T16:55:02Z,for_sale,Big Bear City,San Bernardino,92314,34.235911,-116.853981,599900.0
+39,single_family,2021-02-15T16:44:07Z,for_sale,Garden Grove,Orange,92840,33.784715,-117.950133,950000.0
+40,single_family,2021-02-15T16:44:07Z,for_sale,Chico,Butte,95926,39.741109,-121.831077,399900.0
+41,multi_family,2021-02-15T16:44:07Z,for_sale,San Clemente,Orange,92672,33.426451,-117.623922,1400000.0
+42,single_family,2021-02-15T16:47:16Z,for_sale,Sacramento,Sacramento,95838,38.624423,-121.464833,225000.0
+43,condo,2021-02-15T17:11:38Z,for_sale,Los Angeles,Los Angeles,90015,34.041574,-118.261425,1015000.0
+44,single_family,2021-02-15T16:44:52Z,for_sale,Petaluma,Sonoma,94952,38.26253,-122.745442,1175000.0
+45,condo,2021-02-15T16:50:00Z,for_sale,Carmel,Monterey,93923,36.542814,-121.873684,775000.0
+46,single_family,2021-02-15T16:41:58Z,for_sale,Los Angeles,Los Angeles,90048,34.070317,-118.367511,4495000.0
+47,condo,2021-02-15T16:51:49Z,for_sale,Lake Forest,Orange,92610,33.69278,-117.658784,779800.0
+48,condo,2021-02-15T18:42:14Z,for_sale,Glendale,Los Angeles,91205,34.137002,-118.249084,550000.0
+49,single_family,2021-02-15T16:52:55Z,for_sale,San Francisco,San Francisco,94132,37.713548,-122.469596,1049000.0
+50,single_family,2021-02-15T16:51:35Z,for_sale,Palo Alto,Santa Clara,94306,37.409767,-122.133518,3198000.0
+51,single_family,2021-02-16T00:42:04Z,for_sale,Alturas,Modoc,96101,41.479439,-120.543394,92500.0
+52,condo,2021-02-15T16:38:25Z,for_sale,South Lake Tahoe,El Dorado,96150,38.903856,-120.000098,242500.0
+53,single_family,2021-02-15T16:36:45Z,for_sale,Modesto,Stanislaus,95355,37.667951,-120.932024,439900.0
+54,condo,2021-02-15T16:30:26Z,for_sale,San Clemente,Orange,92673,33.441975,-117.624622,615000.0
+55,single_family,2021-02-15T16:37:27Z,for_sale,Rancho Cucamonga,San Bernardino,91737,34.138376,-117.553546,625000.0
+56,single_family,2021-02-15T16:55:28Z,for_sale,Adelanto,San Bernardino,92301,34.581544,-117.407218,210000.0
+57,condo,2021-02-16T00:30:15Z,for_sale,San Diego,San Diego,92110,32.763986,-117.188657,399000.0
+58,single_family,2021-02-16T00:22:58Z,for_sale,Fremont,Alameda,94536,37.547937,-122.013821,999950.0
+59,single_family,2021-02-15T18:34:06Z,for_sale,Reseda,Los Angeles,91335,34.215164,-118.518969,619900.0
+60,condo,2021-02-15T16:30:26Z,for_sale,Carlsbad,San Diego,92008,33.165337,-117.352191,1395000.0
+61,single_family,2021-02-15T16:24:23Z,for_sale,Orange,Orange,92867,33.813926,-117.841148,825000.0
+62,single_family,2021-02-15T16:27:11Z,for_sale,Sacramento,Sacramento,95831,38.512867,-121.5331,259000.0
+63,condo,2021-02-16T00:24:48Z,for_sale,El Cajon,San Diego,92020,32.797511,-116.967913,310000.0
+64,single_family,2021-02-15T16:16:52Z,for_sale,Burbank,Los Angeles,91505,34.162389,-118.334249,295000.0
+65,condo,2021-02-15T16:30:26Z,for_sale,San Jose,Santa Clara,95112,37.330227,-121.873679,1499900.0
+66,single_family,2021-02-15T16:16:52Z,for_sale,Atascadero,San Luis Obispo,93422,35.465693,-120.659671,599000.0
+67,single_family,2021-02-15T16:14:51Z,for_sale,Sonoma,Sonoma,95476,38.276813,-122.466727,1688000.0
+68,single_family,2021-02-15T16:12:40Z,for_sale,Malibu,Los Angeles,90265,34.040555,-118.652347,4795000.0
+69,condo,2021-02-15T16:15:40Z,for_sale,Burlingame,San Mateo,94010,37.578438,-122.351235,1050000.0
+70,single_family,2021-02-15T16:14:09Z,for_sale,Mountain View,Santa Clara,94043,37.403825,-122.067393,1399000.0
+71,single_family,2021-02-15T16:15:30Z,for_sale,Carmel,,93923,36.448342,-121.841041,3732750.0
+72,single_family,2021-02-15T16:13:24Z,for_sale,Napa,Napa,94558,38.344982,-122.33056,1295000.0
+73,single_family,2021-02-15T16:12:57Z,for_sale,Fairfield,Solano,94533,38.297063,-121.982593,599900.0
+74,single_family,2021-02-15T16:13:22Z,for_sale,Bakersfield,Kern,93314,35.386554,-119.255611,355000.0
+75,single_family,2021-02-15T16:11:28Z,for_sale,Chino,San Bernardino,91710,34.016831,-117.72291,1299999.0
+76,single_family,2021-02-15T17:12:37Z,for_sale,Menifee,Riverside,92586,33.705915,-117.212042,390000.0
+77,single_family,2021-02-16T00:02:07Z,for_sale,Brentwood,Contra Costa,94513,37.917402,-121.71946,475000.0
+78,single_family,2021-02-15T16:12:28Z,for_sale,Antelope,Sacramento,95843,38.724295,-121.393688,414900.0
+79,single_family,2021-02-15T16:11:25Z,for_sale,Modesto,Stanislaus,95351,37.612234,-121.025844,229000.0
+80,single_family,2021-02-15T16:03:22Z,for_sale,National City,San Diego,91950,32.670406,-117.086356,800000.0
+81,single_family,2021-02-15T16:03:22Z,for_sale,San Gabriel,Los Angeles,91775,34.113355,-118.078509,849000.0
+82,single_family,2021-02-15T16:03:22Z,for_sale,Sun City,Riverside,92586,33.696052,-117.200813,280000.0
+83,single_family,2021-02-15T16:03:22Z,for_sale,Apple Valley,San Bernardino,92307,34.549377,-117.244224,420000.0
+84,multi_family,2021-02-15T16:03:22Z,for_sale,Anaheim,Orange,92805,33.838202,-117.921188,699900.0
+85,multi_family,2021-02-16T00:08:58Z,for_sale,San Francisco,San Francisco,94102,37.77419,-122.423642,3800000.0
+86,multi_family,2021-02-15T16:35:14Z,for_sale,Los Angeles,Los Angeles,90038,34.08614,-118.310032,1195000.0
+87,single_family,2021-02-15T16:04:41Z,for_sale,San Rafael,Marin,94901,37.978643,-122.515226,1795000.0
+88,single_family,2021-02-15T16:09:24Z,for_sale,Fresno,Fresno,93737,36.786512,-119.656271,349900.0
+89,single_family,2021-02-15T16:01:10Z,for_sale,Los Angeles,Los Angeles,90027,34.117024,-118.288968,4395000.0
+90,condo,2021-02-15T18:02:14Z,for_sale,Palm Desert,Riverside,92260,33.711397,-116.383369,350000.0
+91,single_family,2021-02-15T16:02:04Z,for_sale,Santa Rosa,Sonoma,95409,38.437756,-122.596265,739000.0
+92,single_family,2021-02-15T15:58:26Z,for_sale,Glendale,Los Angeles,91207,34.165546,-118.246293,1469000.0
+93,condo,2021-02-15T17:51:56Z,for_sale,Studio City,Los Angeles,91604,34.150679,-118.407607,799000.0
+94,condo,2021-02-15T15:55:38Z,for_sale,Long Beach,Los Angeles,90803,33.770552,-118.115229,429000.0
+95,multi_family,2021-02-15T16:16:52Z,for_sale,East Los Angeles,Los Angeles,90023,34.017911,-118.190939,539900.0
+96,single_family,2021-02-15T16:03:22Z,for_sale,Merced,Merced,95348,37.323903,-120.523323,260000.0
+97,single_family,2021-02-15T16:00:02Z,for_sale,San Jose,Santa Clara,95125,37.295098,-121.897827,2698000.0
+98,single_family,2021-02-15T15:54:49Z,for_sale,Pasadena,Los Angeles,91103,34.164479,-118.183617,2995000.0
+99,multi_family,2021-02-15T15:53:15Z,for_sale,Los Angeles,Los Angeles,90062,34.014637,-118.303113,645000.0
+100,single_family,2021-02-15T15:53:46Z,for_sale,Lemoore,Kings,93245,36.302602,-119.804107,310000.0
+101,condo,2021-02-15T17:51:14Z,for_sale,Palm Desert,Riverside,92260,33.701462,-116.396614,278000.0
+102,condo,2021-02-15T15:48:12Z,for_sale,Carlsbad,San Diego,92008,33.16534,-117.352075,1395000.0
+103,single_family,2021-02-15T15:48:12Z,for_sale,Pismo Beach,San Luis Obispo,93449,35.136918,-120.61774,610000.0
+104,single_family,2021-02-15T15:47:44Z,for_sale,Salinas,Monterey,93906,36.704928,-121.657082,549000.0
+105,single_family,2021-02-15T16:01:27Z,for_sale,Denair,Stanislaus,95316,37.53129,-120.789604,599900.0
+106,single_family,2021-02-15T15:45:59Z,for_sale,Hollister,San Benito,95023,36.839423,-121.386159,799735.0
+107,single_family,2021-02-15T16:31:30Z,for_sale,Santa Monica,Los Angeles,90402,34.033187,-118.518783,2595000.0
+108,condo,2021-02-15T15:41:47Z,for_sale,Long Beach,Los Angeles,90814,33.769531,-118.16536,529000.0
+109,condo,2021-02-15T15:41:47Z,for_sale,Valencia,Los Angeles,91355,34.390658,-118.561855,289000.0
+110,multi_family,2021-02-15T15:55:38Z,for_sale,San Diego,San Diego,92116,32.763488,-117.137648,2800000.0
+111,multi_family,2021-02-15T15:55:38Z,for_sale,San Diego,San Diego,92107,32.74543,-117.239369,1650000.0
+112,single_family,2021-02-15T16:16:52Z,for_sale,Azusa,Los Angeles,91702,34.114812,-117.893658,620000.0
+113,condo,2021-02-15T16:11:28Z,for_sale,Fullerton,Orange,92832,33.867766,-117.921507,586000.0
+114,condo,2021-02-15T15:34:08Z,for_sale,Compton,Los Angeles,90221,33.895591,-118.211194,355000.0
+115,single_family,2021-02-15T15:41:47Z,for_sale,Banning,Riverside,92220,33.934904,-116.877251,225000.0
+116,multi_family,2021-02-15T15:48:12Z,for_sale,Los Angeles,Los Angeles,90006,34.045395,-118.286724,2750000.0
+117,condo,2021-02-15T23:43:01Z,for_sale,San Diego,San Diego,92105,32.722702,-117.081383,246000.0
+118,multi_family,2021-02-15T17:09:51Z,for_sale,Sacramento,Sacramento,95841,38.648132,-121.357599,1188000.0
+119,multi_family,2021-02-15T15:39:50Z,for_sale,Fair Oaks,Sacramento,95628,38.646989,-121.289727,559900.0
+120,condo,2021-02-15T17:43:13Z,for_sale,Santa Barbara,Santa Barbara,93105,34.437543,-119.723413,690000.0
+121,single_family,2021-02-15T16:36:00Z,for_sale,Pacifica,San Mateo,94044,37.654017,-122.475613,1249000.0
+122,single_family,2021-02-15T15:36:15Z,for_sale,Pine Grove,Amador,95665,38.413548,-120.672521,155000.0
+123,multi_family,2021-02-15T16:01:56Z,for_sale,Bakersfield,Kern,93305,35.379272,-118.976175,349900.0
+124,condo,2021-02-15T23:33:45Z,for_sale,Laguna Hills,Orange,92653,33.587093,-117.708828,640000.0
+125,single_family,2021-02-15T15:28:38Z,for_sale,Lancaster,Los Angeles,93534,34.683907,-118.143752,299900.0
+126,single_family,2021-02-15T15:29:51Z,for_sale,Stockton,San Joaquin,95207,38.006571,-121.350363,110000.0
+127,single_family,2021-02-15T17:21:42Z,for_sale,Boron,Kern,93516,35.005979,-117.701107,99000.0
+128,single_family,2021-02-15T15:20:10Z,for_sale,Lompoc,Santa Barbara,93436,34.633552,-120.465194,687000.0
+129,single_family,2021-02-15T15:34:08Z,for_sale,Visalia,Tulare,93292,36.303559,-119.262525,373900.0
+130,multi_family,2021-02-15T16:11:28Z,for_sale,Los Angeles,Los Angeles,90059,33.929789,-118.240912,938000.0
+131,single_family,2021-02-15T15:34:08Z,for_sale,Loma Linda,San Bernardino,92318,34.050538,-117.236055,334995.0
+132,condo,2021-02-15T15:23:25Z,for_sale,Sherman Oaks,Los Angeles,91423,34.157992,-118.415934,525000.0
+133,single_family,2021-02-15T16:03:57Z,for_sale,Winters,Yolo,95694,38.521892,-121.973236,549000.0
+134,single_family,2021-02-16T00:05:20Z,for_sale,San Diego,San Diego,92103,32.752367,-117.183651,1595000.0
+135,single_family,2021-02-15T17:18:42Z,for_sale,Redding,Shasta,96003,40.718491,-122.232917,198500.0
+136,multi_family,2021-02-15T15:14:05Z,for_sale,Pasadena,Los Angeles,91103,34.170296,-118.151125,1500000.0
+137,single_family,2021-02-15T15:20:10Z,for_sale,Victorville,San Bernardino,92395,34.491552,-117.264373,384000.0
+138,single_family,2021-02-15T15:14:05Z,for_sale,Tustin,Orange,92780,33.71527,-117.814433,849000.0
+139,multi_family,2021-02-15T15:12:29Z,for_sale,San Jose,Santa Clara,95112,37.330083,-121.880766,1600000.0
+140,single_family,2021-02-15T15:12:56Z,for_sale,Davenport,Santa Cruz,95017,37.012848,-122.192677,1200000.0
+141,single_family,2021-02-15T23:05:58Z,for_sale,Concord,Contra Costa,94521,37.976574,-121.995105,450000.0
+142,single_family,2021-02-16T00:03:09Z,for_sale,Pleasant Hill,Contra Costa,94523,37.926049,-122.087888,1225000.0
+143,single_family,2021-02-15T15:10:00Z,for_sale,Pebble Beach,Monterey,93953,36.596511,-121.946153,2395000.0
+144,condo,2021-02-15T15:06:27Z,for_sale,Manhattan Beach,Los Angeles,90266,33.895081,-118.385395,1170000.0
+145,single_family,2021-02-15T15:06:27Z,for_sale,Perris,Riverside,92570,33.76432,-117.256748,429999.0
+146,single_family,2021-02-15T15:20:01Z,for_sale,Carmel,Monterey,93923,36.505999,-121.92217,5125000.0
+147,single_family,2021-02-15T15:04:31Z,for_sale,Los Angeles,Los Angeles,90027,34.11601,-118.283275,3750000.0
+148,single_family,2021-02-15T15:05:23Z,for_sale,Palmdale,Los Angeles,93550,34.556381,-118.068287,340000.0
+149,single_family,2021-02-15T15:00:01Z,for_sale,Orland,Glenn,95963,39.750616,-122.193156,205000.0
+150,condo,2021-02-15T15:00:01Z,for_sale,Carlsbad,San Diego,92008,33.165347,-117.35169,1095000.0
+151,single_family,2021-02-15T15:06:27Z,for_sale,South Pasadena,Los Angeles,91030,34.109169,-118.14303,1598000.0
+152,single_family,2021-02-15T23:00:51Z,for_sale,San Diego,San Diego,92127,33.040796,-117.079291,1150000.0
+153,single_family,2021-02-15T15:03:25Z,for_sale,Rocklin,Placer,95677,38.797384,-121.194942,1199000.0
+154,single_family,2021-02-15T16:52:14Z,for_sale,Solvang,Santa Barbara,93463,34.617834,-120.099333,1295000.0
+155,condo,2021-02-15T14:52:07Z,for_sale,Mission Viejo,Orange,92692,33.625959,-117.650041,575000.0
+156,single_family,2021-02-15T15:41:47Z,for_sale,Pomona,Los Angeles,91768,34.061471,-117.757103,589000.0
+157,single_family,2021-02-15T15:16:00Z,for_sale,Los Angeles,Los Angeles,90042,34.131321,-118.189948,1500000.0
+158,multi_family,2021-02-15T22:57:20Z,for_sale,Santa Rosa,Sonoma,95401,38.437542,-122.727876,
+159,condo,2021-02-15T14:45:55Z,for_sale,Rancho Cucamonga,San Bernardino,91739,34.168715,-117.517652,639900.0
+160,condo,2021-02-15T15:28:38Z,for_sale,Highland,San Bernardino,92346,34.126247,-117.202922,191900.0
+161,single_family,2021-02-15T14:45:55Z,for_sale,Merced,Merced,95341,37.283968,-120.493937,298900.0
+162,single_family,2021-02-15T17:12:37Z,for_sale,Adelanto,San Bernardino,92301,34.540346,-117.405517,360000.0
+163,single_family,2021-02-15T14:45:31Z,for_sale,Los Angeles,Los Angeles,90032,34.064046,-118.175956,980000.0
+164,single_family,2021-02-15T16:50:37Z,for_sale,Indio,Riverside,92203,33.761322,-116.239885,525000.0
+165,single_family,2021-02-15T16:46:14Z,for_sale,Quartz Hill,Los Angeles,93536,34.643351,-118.244367,635000.0
+166,single_family,2021-02-15T16:44:15Z,for_sale,Lancaster,Los Angeles,93535,34.732575,-118.014861,969000.0
+167,condo,2021-02-15T14:41:37Z,for_sale,Daly City,San Mateo,94014,37.706139,-122.441187,499888.0
+168,single_family,2021-02-15T16:10:12Z,for_sale,Grass Valley,Nevada,95945,39.198144,-121.005705,1198000.0
+169,single_family,2021-02-15T15:00:01Z,for_sale,Tujunga,Los Angeles,91042,34.264337,-118.295983,499994.0
+170,single_family,2021-02-15T15:14:05Z,for_sale,Apple Valley,San Bernardino,92308,34.443334,-117.237612,265000.0
+171,single_family,2021-02-15T14:45:55Z,for_sale,Barstow,San Bernardino,92311,34.893404,-116.969973,530000.0
+172,single_family,2021-02-15T14:38:32Z,for_sale,Fontana,San Bernardino,92335,34.086602,-117.41469,465000.0
+173,single_family,2021-02-15T14:45:55Z,for_sale,Pasadena,Los Angeles,91105,34.132943,-118.177466,1295000.0
+174,single_family,2021-02-15T15:00:01Z,for_sale,Los Angeles,Los Angeles,90041,34.128066,-118.203391,1695000.0
+175,single_family,2021-02-15T14:37:04Z,for_sale,Forestville,Sonoma,95436,38.489102,-122.880189,1325000.0
+176,single_family,2021-02-15T14:33:38Z,for_sale,Beverly Hills,Los Angeles,90210,34.095085,-118.428518,3695000.0
+177,single_family,2021-02-15T16:21:11Z,for_sale,El Centro,Imperial,92243,32.789355,-115.581999,375000.0
+178,condo,2021-02-15T22:31:21Z,for_sale,Walnut Creek,Contra Costa,94597,37.924237,-122.056032,349000.0
+179,single_family,2021-02-15T14:30:48Z,for_sale,Atwater,Merced,95301,37.346795,-120.623133,431900.0
+180,single_family,2021-02-15T14:28:01Z,for_sale,Cameron Park,El Dorado,95682,38.697562,-120.997211,410000.0
+181,single_family,2021-02-15T14:27:27Z,for_sale,South Lake Tahoe,El Dorado,96150,38.935939,-119.982283,1250000.0
+182,single_family,2021-02-15T16:00:03Z,for_sale,Los Angeles,Los Angeles,90068,34.105198,-118.343716,2950000.0
+183,single_family,2021-02-15T14:58:14Z,for_sale,Mill Valley,Marin,94941,37.878858,-122.536625,3995000.0
+184,single_family,2021-02-15T14:40:20Z,for_sale,San Jose,Santa Clara,95124,37.257961,-121.923451,2175000.0
+185,single_family,2021-02-15T14:18:26Z,for_sale,Hemet,Riverside,92545,33.718797,-117.031432,340000.0
+186,condo,2021-02-15T15:00:01Z,for_sale,Placentia,Orange,92870,33.880648,-117.842109,675000.0
+187,condo,2021-02-15T14:18:26Z,for_sale,San Diego,San Diego,92101,32.711247,-117.150656,380000.0
+188,single_family,2021-02-15T14:25:36Z,for_sale,Beverly Hills,Los Angeles,90210,34.073402,-118.410987,16700000.0
+189,single_family,2021-02-15T15:55:38Z,for_sale,Hesperia,San Bernardino,92345,34.467982,-117.274116,350000.0
+190,multi_family,2021-02-15T15:41:47Z,for_sale,San Diego,San Diego,92116,32.763647,-117.138393,3600000.0
+191,single_family,2021-02-15T14:25:36Z,for_sale,Los Angeles,Los Angeles,90041,34.127069,-118.216824,1195000.0
+192,single_family,2021-02-15T14:38:32Z,for_sale,Riverside,Riverside,92504,33.932435,-117.414872,450000.0
+193,single_family,2021-02-15T14:25:12Z,for_sale,Citrus Heights,Sacramento,95610,38.685282,-121.269267,265000.0
+194,single_family,2021-02-15T14:19:34Z,for_sale,Atwater,Merced,95301,37.346699,-120.622336,378900.0
+195,single_family,2021-02-15T14:21:41Z,for_sale,Atwater,Merced,95301,37.34662,-120.623501,395515.0
+196,single_family,2021-02-15T14:25:12Z,for_sale,Atwater,Merced,95301,37.34688,-120.622956,451790.0
+197,single_family,2021-02-15T14:21:58Z,for_sale,Sacramento,Sacramento,95823,38.48317,-121.428936,345000.0
+198,single_family,2021-02-15T18:17:36Z,for_sale,Menifee,Riverside,92587,33.701749,-117.246351,348500.0
+199,single_family,2021-02-15T15:03:37Z,for_sale,Daly City,San Mateo,94014,37.691284,-122.453448,998000.0
