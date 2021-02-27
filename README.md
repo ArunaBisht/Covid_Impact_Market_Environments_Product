@@ -15,6 +15,10 @@ This project leverages python 3.7 with the following packages:
 
 * [Pandas](https://pandas.pydata.org/) - For data cleaning, preparation and manipulation
 
+* [Jupyter Notebook](https://jupyter.org/) - An open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text.
+
+* [Visual Studio Code](https://code.visualstudio.com/) - A code editor redefined and optimized for building and debugging modern web and cloud applications
+
 * [Fire](https://github.com/google/python-fire) - For the command line interface, help page, and entrypoint
 
 * [Questionary](https://github.com/tmbo/questionary) - For interactive user prompts and dialogs
@@ -22,8 +26,6 @@ This project leverages python 3.7 with the following packages:
 * [Pyviz](https://pyviz.org/) - Python visualization package that provides a single platform for accessing multiple visualization libraries. Two of these libraries are Plotly Express and hvPlot, which were used in this project
 
 * [The Mapbox API](https://account.mapbox.com/auth/signup/) - To use the Mapbox API, you need to register for a public Mapbox API access token
-
-* [SQLAlchemy](https://www.sqlalchemy.org/) - An open-source SQL library for Python. It’s designed to ease the communication between Python-based programs and databases
 
 * [Flask](https://flask.palletsprojects.com/en/1.1.x/) - A Python library which allows you to build a web application
 
@@ -49,28 +51,34 @@ To install PyViz and its dependencies in your Conda dev environment, complete th
 2. Install the PyViz packages by using the conda install command as follows:
     
 	conda install -c plotly plotly=4.13.
-    conda install -c pyviz hvplot
-
-To confirm that SQLAlchemy installed in your Conda dev environment, open a terminal window, and then complete the following steps:
     
-	conda list sqlalchemy
-
-
+    conda install -c pyviz hvplot
 ---
 
 ## Usage
 
-After collecting and preparing the data, you should see the following:
+After collecting, cleaning, and manipulating the data, you'll be able to visualize it in order to come up with a proper analysis. Example images provided below.  
 
+![](Images/viz_1.png)
+![](Images/viz_2.png)
 
-The command line interface shows the following:
+As a user, you'll be able to input your lifestyle needs on a professionally completed dashboard: 
 
+![](Images/lifestyle_dash_1.png)
+![](Images/lifestyle_dash_2.png)
+
+Then, the user will be able to input their financial goals in order for us to make a recommendation:
+
+![](Images/financial_dash_1.png)
+![](Images/financial_dash_2.png)
 
 The final outcome should result in the following:
 
 - A Jupyter notebook with an analysis and recommendation of the best city for the user's real estate investment
 
 - Professionally styled and formatted interactive visualizations
+
+- A dashboard that allows users to input their information and be given a recommendation on where to invest
 
 
 ---
