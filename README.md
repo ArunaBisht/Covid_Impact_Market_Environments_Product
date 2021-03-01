@@ -6,7 +6,8 @@ SAME is a PropTech startup disrupting the way real estate investing is done. The
 
 Our goal is to leverage our data-driven business model to educate and empower our users around Real Estate Investing. We provide users the research and analysis needed to decide whether you should sell, buy, or rent out a property. We are in an information era and knowledge is key. Which is why we are seeking a $250,000 (or 5 bitcoins) investment for 10% stake in our company, allowing us to give our  customers the key to investing in real estate, or the key to their next home. 
 
-##Approach
+# Approach
+
 The analyzation of the project is done in 2 parts. 
 1st part - Which city suits your lifestyle eg. if you have any preference to live in any specific cultural community or diverse community?. 
 2nd part - Once we finalize the city, then we analyze why this city is best to invest financially?. 
