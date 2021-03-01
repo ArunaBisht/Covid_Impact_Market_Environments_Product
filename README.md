@@ -8,10 +8,14 @@ Our goal is to leverage our data-driven business model to educate and empower ou
 
 # Approach
 
-The analyzation of the project is done in 2 parts. 
-1st part - Which city suits your lifestyle eg. if you have any preference to live in any specific cultural community or diverse community?. 
+The project analyzation  is done in two parts - 
+
+1st part - Which city suits your lifestyle eg. whether if you have any preference to live in any specific cultural community or diverse community?. 
+
 2nd part - Once we finalize the city, then we analyze why this city is best to invest financially?. 
-There are so many prarameters to financially analyze this aspect but we took only two parameters for this prototype. Ist parameter - we compared user's mortgage with historical city's average rent and 2nd parameter - we compared expected monthly rent with the city's average historical rents.
+There are so many prarameters to financially analyze this, but we took only two parameters for this prototype. 
+Ist parameter - we compared user's mortgage with historical city's average rent 
+and 2nd parameter - we compared expected monthly rent with the city's average historical rents.
 
 ---
 
