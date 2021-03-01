@@ -15,8 +15,8 @@ The project analyzation is done in two parts -
 2nd part - Once we finalize the city, then we analyze why this city is best to invest financially?. 
 
 There are so many parameters to financially analyze this, but we took only two parameters for this prototype. 
-Ist parameters - we compared the user's mortgage with the historical city's average rent and 
-the 2nd parameter - we compared expected monthly rent with the city's average historical rents.
+Ist parameters - we compared whether the user's mortgage is lesser then the historical city's average rent and 
+the 2nd parameter - we compared whether expected real estate price is lesser then the city's average historical real estate price.
 
 ---
 
