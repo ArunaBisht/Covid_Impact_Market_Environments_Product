@@ -82,13 +82,13 @@ As a user, you'll be able to input your lifestyle needs on a professionally comp
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 Part 2nd- why that city is best to invest in?.
 
-After collecting, cleaning, and manipulating the data, we analyzed the 2nd part financial aspect and researched most critical parameters like population , which affects real estate supply & demand and hence the finance. We used jupuyter lab to find the correlation between the critical parameters eg. population and real estate prices . 
+After collecting, cleaning, and manipulating the data, we analyzed the 2nd part financial aspect and researched most critical parameters like population , which affects real estate supply & demand and hence the finance. We used jupyter lab to find the correlation between the critical parameters eg. population and real estate prices . 
 
 Examples following image shows that- city 'Bakerfield' has the high population but still lighter in color and hence lower real estate price. Primary because this city is in outskirt and hence real estate price is low and therefore not much profit in renting out. Similarly, Costa mesa city is small but high population density and hence high real estate price, that's why color shows darker on visualization.
 
 ![](Images/viz_1.png)
 
-Another coorelation we used was between covid cases, IT/ employment sector and real estate price. We observed cities like San Mateo having lower covid cases have high real estate prices. However, that's not always the case because LA city has a significant number of covid cases but still high real estate prices,primarily because of the IT sector and employment area.
+Another correlation we used was between covid cases, IT/ employment sector and real estate price. We observed cities like San Mateo having lower covid cases have high real estate prices. However, that's not always the case because LA city has a significant number of covid cases but still high real estate prices,primarily because of the IT sector and employment area.
 
 ![](Images/viz_2.png)
 
@@ -97,7 +97,7 @@ After analyzing correlation on jupyter, we built another interactive dashboard i
 ![](Images/financial_dash_1.png)
 ![](Images/financial_dash_2.png)
 
-This dashboard will automatically copmare user's input and historical average data, and will recommend whether this city is financially sound to invest in or not.
+This dashboard will automatically compare user's input and historical average data, and will recommend whether this city is financially sound to invest in or not.
 ![](Images/result.PNG)
 
 The final outcome should result in the following:
