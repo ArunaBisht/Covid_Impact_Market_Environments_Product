@@ -74,9 +74,12 @@ To install PyViz and its dependencies in your Conda dev environment, complete th
 
 After collecting, cleaning, and manipulating the data, we used jupuyter lab to plot the critical parameters eg. population affecting demand & supply of real estate and hence the real estate prices . 
 
-Examples following image shows that- city 'Bakerfield' has high population but still lighter in color and hence lower real estate price. Primary because this city is in outskirt and hence real estate price is low and therefore not much profit in renting out. Similarly, Costa mesa city is small but high population density and hence high real estate price, that's why color shows darker on visualization.
+Examples following image shows that- city 'Bakerfield' has the high population but still lighter in color and hence lower real estate price. Primary because this city is in outskirt and hence real estate price is low and therefore not much profit in renting out. Similarly, Costa mesa city is small but high population density and hence high real estate price, that's why color shows darker on visualization.
 
 ![](Images/viz_1.png)
+
+Another parameter we observed was covid cases. Cities like San Mateo having lower covid cases have high real estate prices. However, that's not always the case because LA city has a significant number of covid cases but still high real estate prices,primarily because of the IT sector and employment area.
+
 ![](Images/viz_2.png)
 
 As a user, you'll be able to input your lifestyle needs on a professionally completed dashboard: 
