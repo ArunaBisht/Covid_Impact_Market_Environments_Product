@@ -88,11 +88,11 @@ Examples following image shows that- city 'Bakerfield' has the high population b
 
 ![](Images/viz_1.png)
 
-Another parameter we observed was covid cases. Cities like San Mateo having lower covid cases have high real estate prices. However, that's not always the case because LA city has a significant number of covid cases but still high real estate prices,primarily because of the IT sector and employment area.
+Another coorelation we used was between covid cases, IT/ employment sector and real estate price. We observed cities like San Mateo having lower covid cases have high real estate prices. However, that's not always the case because LA city has a significant number of covid cases but still high real estate prices,primarily because of the IT sector and employment area.
 
 ![](Images/viz_2.png)
 
-Then, as seen from the snapshots, the user will be able to input their financial goals in order for us to make a recommendation:
+After analyzing correlation on jupyter, we built another interactive dashboard interface, where user can direcly submits basic info like mortage planning to pay or average rent intend to get etc. As seen from the snapshots, the user will be able to input their financial goals in order for us to make a recommendation:
 
 ![](Images/financial_dash_1.png)
 ![](Images/financial_dash_2.png)
