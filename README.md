@@ -92,10 +92,13 @@ Another parameter we observed was covid cases. Cities like San Mateo having lowe
 
 ![](Images/viz_2.png)
 
-Then, the user will be able to input their financial goals in order for us to make a recommendation:
+Then, as seen from the snapshots, the user will be able to input their financial goals in order for us to make a recommendation:
 
 ![](Images/financial_dash_1.png)
 ![](Images/financial_dash_2.png)
+
+This dashboard will automatically copmare user's input and historical average data, and will recommend whether this city is financially sound to invest in or not.
+![](Images/result.PNG)
 
 The final outcome should result in the following:
 
@@ -105,8 +108,11 @@ The final outcome should result in the following:
 
 - A dashboard that allows users to input their information and be given a recommendation on where to invest
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Limitations - we just took the prototype of few cities and few parameters affecting real estate demand & supply and hence the prices. However, there is a lot more to it and other ciritcal parameters like tax rate etc would be added in our final product.
 
----
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 ## Contributors
 
