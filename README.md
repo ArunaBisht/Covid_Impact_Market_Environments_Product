@@ -71,6 +71,13 @@ To install PyViz and its dependencies in your Conda dev environment, complete th
 ---
 
 ## Usage
+Part 1st- 
+As a user, you'll be able to input your lifestyle needs on a professionally completed dashboard, which was built using Flask. 
+
+![](Images/lifestyle_dash_1.png)
+![](Images/lifestyle_dash_2.png)
+
+Part 2nd-
 
 After collecting, cleaning, and manipulating the data, we used jupuyter lab to plot the critical parameters eg. population affecting demand & supply of real estate and hence the real estate prices . 
 
@@ -81,11 +88,6 @@ Examples following image shows that- city 'Bakerfield' has the high population b
 Another parameter we observed was covid cases. Cities like San Mateo having lower covid cases have high real estate prices. However, that's not always the case because LA city has a significant number of covid cases but still high real estate prices,primarily because of the IT sector and employment area.
 
 ![](Images/viz_2.png)
-
-As a user, you'll be able to input your lifestyle needs on a professionally completed dashboard: 
-
-![](Images/lifestyle_dash_1.png)
-![](Images/lifestyle_dash_2.png)
 
 Then, the user will be able to input their financial goals in order for us to make a recommendation:
 
