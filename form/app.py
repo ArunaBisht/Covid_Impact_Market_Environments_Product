@@ -1,4 +1,4 @@
-from flask import Flask, render_template, request, jsonify
+ from flask import Flask, render_template, request, jsonify
 import pandas as pd
 from pathlib import Path as p
 
@@ -56,7 +56,7 @@ def hello_world():
     personal_income_difference = (form_personal_income - df_median_personal_income)
 
 
-    results = total_df.loc[(total_df['city_size'] == data['city_size'])&(total_df['city_size'] == data['city_size'])]
+    results = total_df.loc[(total_df['city_size'] == data['city_size'])&(df_form_mortgage)&(df_form_cultural_identity)&(personal_income_difference>1)]
     results = results[['city','population_total','median_age', 'median_household_income','median_personal_income', form_industry,form_bedrooms,form_vehicles,form_mortgage,form_cultural_identity,'diversity_score','race_hispanic','race_black','race_white','race_asian','race_pacific_islander' ]]
     html = results.to_html()
     return html
