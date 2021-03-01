@@ -42,6 +42,10 @@ Before running the application first install the following dependencies.
   pip install fire
   pip install questionary
   pip install pytest
+  pip install pandas
+  pip install numpy
+  pip install flask
+  pip install hvplot
 ```
 
 To install PyViz and its dependencies in your Conda dev environment, complete the following steps:
