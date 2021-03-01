@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+<meta charset="UTF-8">
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}" type = "text/css">
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<form action="/data" method="post" class="form">
+  <p class="field required half">
+    <label class="label required" for="age">Age</label>
+	  <input class="text-input" id="age" name="age" required type="number" value="">
+  </p>
+
+  <p class="field required half">
+    <label class="label" for="sex">Sex</label>
+    <select class="select" id="sex" name = "sex">
+      <option selected value=""></option>
+      <option value="female">Male</option>
+      <option value="female">Female</option>
+      <option value="Other">Other</option>
+    </select>
+  </p>
+
+
+  <p class="field required">
+    <label class="label required" for="household_income">Gross Household Income</label>
+    <input class="text-input" id="household_income" name="household_income" required type="number" value="">
+  </p>
+
+  <p class="field required">
+    <label class="label required" for="personal_income">Net Personal Income</label>
+    <input class="text-input" id="personal_income" name="personal_income" required type="number" value="">
+  </p>
+
+
+
+<div class="field required">
+	<label class="label">Cultural Identity</label>
+	<ul class="options">
+	  <li class="option">
+		<input class="option-input" id="white" name="choice" type="radio" value="white">
+		<label class="option-label" for="white">White</label>
+	  </li>
+    <li class="option">
+		<input class="option-input" id="black" name="choice" type="radio" value="black">
+		<label class="option-label" for="black">Black</label>
+	  </li>
+	  <li class="option">
+		<input class="option-input" id="native" name="choice" type="radio" value="native">
+		<label class="option-label" for="native">Native American</label>
+	  </li>
+	  <li class="option">
+		<input class="option-input" id="asian" name="choice" type="radio" value="asian">
+		<label class="option-label" for="asian">Asian</label>
+	  </li>
+	  <li class="option">
+		<input class="option-input" id="pacific_islander" name="choice" type="radio" value="pacific">
+		<label class="option-label" for="pacific_islander">Pacific Islander</label>
+	  </li>
+	  <li class="option">
+		<input class="option-input" id="hispanic" name="choice" type="radio" value="hispanic">
+		<label class="option-label" for="hispanic">Hispanic</label>
+	  </li>
+	  <li class="option">
+		<input class="option-input" id="other" name="choice" type="radio" value="other">
+		<label class="option-label" for="other">Other</label>
+	  </li>
+	</ul>
+	</div>
+
+	<div class="field required">
+	<label class="label">Is it important to you that your community reflects a similar cultural identity to your own?</label>
+	<ul class="options">
+      <li class="option">
+        <input class="option-input" id="culture_yes" name="culture" type="radio" value="culture_yes">
+        <label class="option-label" for="culture_yes">Yes</label>
+      </li>
+      <li class="option">
+        <input class="option-input" id="culture_no" name="culture" type="radio" value="culture_no">
+        <label class="option-label" for="culture_no">No</label>
+      </li>
+	</ul>
+	</div>
+
+	<div class="field required">
+	<label class="label">Is diversity important to you?</label>
+	<ul class="options">
+      <li class="option">
+        <input class="option-input" id="important" name="diversity" type="radio" value="True">
+        <label class="option-label" for="important">Important</label>
+      </li>
+      <li class="option">
+        <input class="option-input" id="not_important" name="diversity" type="radio" value="False">
+        <label class="option-label" for="not_important">Not Important</label>
+      </li>
+</div>
+
+	<div class="field required">
+	<label class="label">Do you have children?</label>
+	<ul class="options">
+      <li class="option">
+        <input class="option-input" id="children_yes" name="children" type="radio" value="True">
+        <label class="option-label" for="children_yes">Yes</label>
+      </li>
+      <li class="option">
+        <input class="option-input" id="children_no" name="children" type="radio" value="False">
+        <label class="option-label" for="children_no">No</label>
+      </li>
+	</ul>
+</div>
+
+
+  <div class="field required">
+    <label class="label">What industry do you work in?</label>
+	<ul class="options">
+      <li class="option">
+        <input class="option-input" id="agg" name="industry" type="radio" value="aggreculture">
+        <label class="option-label" for="agg">Aggreculture</label>
+      </li>
+      <li class="option">
+        <input class="option-input" id="construction" name="industry" type="radio" value="construction">
+        <label class="option-label" for="construction">Construction</label>
+      </li>
+      <li class="option">
+        <input class="option-input" id="manufacturing" name="industry" type="radio" value="manufacturing">
+        <label class="option-label" for="manufacturing">Manufacturing</label>
+      </li>
+      <li class="option">
+        <input class="option-input" id="wholesale" name="industry" type="radio" value="wholesale">
+        <label class="option-label" for="wholesale">Wholesale</label>
+      </li>
+      <li class="option">
+        <input class="option-input" id="retail" name="industry" type="radio" value="retail">
+        <label class="option-label" for="retail">Retail</label>
+      </li>
+      <li class="option">
+        <input class="option-input" id="warehousing" name="industry" type="radio" value="warehousing">
+        <label class="option-label" for="warehousing">Warehousing</label>
+      </li>
+      <li class="option">
+        <input class="option-input" id="utilities" name="industry" type="radio" value="utilities">
+        <label class="option-label" for="utilities">Utilities</label>
+      </li>
+      <li class="option">
+        <input class="option-input" id="information" name="industry" type="radio" value="information">
+        <label class="option-label" for="information">Information</label>
+      </li>
+      <li class="option">
+        <input class="option-input" id="finance" name="industry" type="radio" value="finance">
+        <label class="option-label" for="finance">Finance</label>
+      </li>
+      <li class="option">
+        <input class="option-input" id="real_estate" name="industry" type="radio" value="real_estate">
+        <label class="option-label" for="real_estate">Real Estate</label>
+      </li>
+      <li class="option">
+        <input class="option-input" id="technical_services" name="industry" type="radio" value="technical_services">
+        <label class="option-label" for="technical_services">Technical Services</label>
+      </li>
+      <li class="option">
+        <input class="option-input" id="corporate_management" name="industry" type="radio" value="corporate_management">
+        <label class="option-label" for="corporate_management">Corporate Management</label>
+      </li>
+
+      <li class="option">
+        <input class="option-input" id="administration" name="industry" type="radio" value="administration">
+        <label class="option-label" for="administration">Administration</label>
+      </li>
+      <li class="option">
+        <input class="option-input" id="education" name="industry" type="radio" value="education">
+        <label class="option-label" for="education">Education</label>
+      </li>
+      <li class="option">
+        <input class="option-input" id="healthcare" name="industry" type="radio" value="health_care">
+        <label class="option-label" for="healthcare">Healthcare</label>
+      </li>
+      <li class="option">
+        <input class="option-input" id="arts/entertainment" name="industry" type="radio" value="arts_entertainment">
+        <label class="option-label" for="arts/entertainment">Arts & Entertainment</label>
+      </li>
+      <li class="option">
+        <input class="option-input" id="accommodation" name="industry" type="radio" value="accomodation">
+        <label class="option-label" for="accommodation">Accommodation</label>
+      </li>
+      <li class="option">
+        <input class="option-input" id="public_administration" name="industry" type="radio" value="public_administration">
+        <label class="option-label" for="public_administration">Public Administration</label>
+      </li>
+
+	</ul>
+  </div>
+
+	<div class="field required">
+	<label class="label">What size city are you looking for?</label>
+	<ul class="options">
+      <li class="option">
+        <input class="option-input" id="size_small" name="city_size" type="radio" value="size_small">
+        <label class="option-label" for="size_small">small</label>
+      </li>
+      <li class="option">
+        <input class="option-input" id="size_med" name="city_size" type="radio" value="size_med">
+        <label class="option-label" for="size_med">medium</label>
+      </li>
+      <li class="option">
+        <input class="option-input" id="size_lrg" name="city_size" type="radio" value="size_lrg">
+        <label class="option-label" for="size_lrg">large</label>
+      </li>
+      <li class="option">
+        <input class="option-input" id="size_xlrg" name="city_size" type="radio" value="size_xlrg">
+        <label class="option-label" for="size_xlrg">very_large</label>
+      </li>
+	</ul>
+</div>
+
+	<div class="field required">
+	<label class="label">How many bedrooms do you need?</label>
+	<ul class="options">
+      <li class="option">
+        <input class="option-input" id="1_bed" name="bedrooms" type="radio" value="1_bedroom">
+        <label class="option-label" for="1_bed">1</label>
+      </li>
+      <li class="option">
+        <input class="option-input" id="2_bed" name="bedrooms" type="radio" value="2_bedrooms">
+        <label class="option-label" for="2_bed">2</label>
+      </li>
+      <li class="option">
+        <input class="option-input" id="3_bed" name="bedrooms" type="radio" value="3_bedrooms">
+        <label class="option-label" for="3_bed">3</label>
+      </li>
+      <li class="option">
+        <input class="option-input" id="4_bed" name="bedrooms" type="radio" value="4_bedrooms">
+        <label class="option-label" for="4_bed">4</label>
+      </li>
+      <li class="option">
+        <input class="option-input" id="5_bed" name="bedrooms" type="radio" value="5_or_more_bedrooms">
+        <label class="option-label" for="5_bed">5+</label>
+      </li>
+	</ul>
+</div>
+
+	<div class="field required">
+	<label class="label">How many vehicles do you own?</label>
+	<ul class="options">
+      <li class="option">
+        <input class="option-input" id="0_car" name="vehicles" type="radio" value="0_vehicles_available">
+        <label class="option-label" for="0_car">0</label>
+      </li>
+      <li class="option">
+        <input class="option-input" id="1_car" name="vehicles" type="radio" value="1_vehicle_available">
+        <label class="option-label" for="1_car">1</label>
+      </li>
+      <li class="option">
+        <input class="option-input" id="2_car" name="vehicles" type="radio" value="2_vehicles_available">
+        <label class="option-label" for="2_car">2</label>
+      </li>
+      <li class="option">
+        <input class="option-input" id="3_car" name="vehicles" type="radio" value="3_or_more_vehicles_available">
+        <label class="option-label" for="3_car">3+</label>
+      </li>
+	</ul>
+</div>
+
+
+
+  <div class="field required">
+    <label class="label">What size mortgage are you approved for?</label>
+	<ul class="options">
+      <li class="option">
+        <input class="option-input" id="less_than_$50000" name="mortgage" type="radio" value="less_than_$50000">
+        <label class="option-label" for="less_than_$50000">less than $50000</label>
+      </li>
+      <li class="option">
+        <input class="option-input" id="$50000_to_$99999" name="mortgage" type="radio" value="$50000_to_$99999">
+        <label class="option-label" for="$50000_to_$99999">$50000 to $99999</label>
+      </li>
+      <li class="option">
+        <input class="option-input" id="$100000_to_$149999" name="mortgage" type="radio" value="$100000_to_$149999">
+        <label class="option-label" for="$100000_to_$149999">$100000 to $149999</label>
+      </li>
+      <li class="option">
+        <input class="option-input" id="$150000_to_$199999" name="mortgage" type="radio" value="$150000_to_$199999">
+        <label class="option-label" for="$150000_to_$199999">$150000 to $199999</label>
+      </li>
+      <li class="option">
+        <input class="option-input" id="$200000_to_$299999" name="mortgage" type="radio" value="$200000_to_$299999">
+        <label class="option-label" for="$200000_to_$299999">$200000 to $299999</label>
+      </li>
+      <li class="option">
+        <input class="option-input" id="$300000_to_$499999" name="mortgage" type="radio" value="$300000_to_$499999">
+        <label class="option-label" for="$300000_to_$499999">$300000 to $499999</label>
+      </li>
+      <li class="option">
+        <input class="option-input" id="$500000_to_$999999" name="mortgage" type="radio" value="$500000_to_$999999">
+        <label class="option-label" for="$500000_to_$999999">$500000 to $999999</label>
+      </li>
+      <li class="option">
+        <input class="option-input" id="$1000000_or_more" name="mortgage" type="radio" value="$1000000_or_more">
+        <label class="option-label" for="$1000000_or_more">$1000000 or more</label>
+      </li>
+	</ul>
+  </div>
+
+  <div class="field">
+    <label class="label">Do you prefer multi-unit homes or stand-alone homes?</label>
+    <ul class="options">
+      <li class="option">
+        <input class="option-input" id="1-unit_detached" name="house_type" type="radio" value="1-unit_detached">
+        <label class="option-label" for="1-unit_detached">1-unit detached</label>
+      </li>
+      <li class="option">
+        <input class="option-input" id="1-unit_attached" name="house_type" type="radio" value="1-unit_attached">
+        <label class="option-label" for="1-unit_attached">1-unit attached</label>
+      </li>
+      <li class="option">
+        <input class="option-input" id="2_units" name="house_type" type="radio" value="2_units">
+        <label class="option-label" for="2_units">2 Units</label>
+      </li>
+      <li class="option">
+        <input class="option-input" id="3_or_4_units" name="house_type" type="radio" value="3_or_4_units">
+        <label class="option-label" for="3_or_4_units">3 or 4_units/label>
+      </li>
+      <li class="option">
+        <input class="option-input" id="5_to_9_units" name="house_type" type="radio" value="5_to_9_units">
+        <label class="option-label" for="5_to_9_units">5 to 9 Units</label>
+      </li>
+      <li class="option">
+        <input class="option-input" id="10_to_19_units" name="house_type" type="radio" value="10_to_19_units">
+        <label class="option-label" for="10_to_19_units">10 to 19 units</label>
+      </li>
+      <li class="option">
+        <input class="option-input" id="20_or_more_units" name="house_type" type="radio" value="20_or_more_units">
+        <label class="option-label" for="20_or_more_units">20 or more units</label>
+      </li>
+    </ul>
+  </div>
+
+  <p class="field half">
+    <input class="button" type="submit" value="Submit">
+  </p>
+</form>
+<!-- partial -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.customSelect/0.5.1/jquery.customSelect.min.js"></script>
+</body>
+</html>
