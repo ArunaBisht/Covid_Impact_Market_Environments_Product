@@ -68,9 +68,10 @@ To install PyViz and its dependencies in your Conda dev environment, complete th
 	conda install -c plotly plotly=4.13.
     
     conda install -c pyviz hvplot
----
+-----------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Usage
+
 Part 1st- which city suits user's lifestyle ?.
 
 As a user, you'll be able to input your lifestyle needs on a professionally completed dashboard, which was built using Flask. And, based upon user's preferences, for example- whether user prefer more diverse area or specific community, this dashboard would recommends cities.
@@ -78,6 +79,7 @@ As a user, you'll be able to input your lifestyle needs on a professionally comp
 ![](Images/lifestyle_dash_1.png)
 ![](Images/lifestyle_dash_2.png)
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------
 Part 2nd- why that city is best to invest in?
 
 After collecting, cleaning, and manipulating the data, we analyzed the 2nd part financial aspect and researched most critical parameters like population , which affects real estate supply & demand and hence the finance. We used jupuyter lab to find the correlation between the critical parameters eg. population and real estate prices . 
