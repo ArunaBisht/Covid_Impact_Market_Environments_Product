@@ -72,7 +72,7 @@ To install PyViz and its dependencies in your Conda dev environment, complete th
 
 ## Usage
 
-After collecting, cleaning, and manipulating the data, you'll be able to visualize it in order to come up with a proper analysis. Example images provided below.  
+After collecting, cleaning, and manipulating the data, we used jupuyter lab to plot the critical parameters eg. population affecting demand & supply of real estate and hence the prices . Examples of  images provided below.  
 
 ![](Images/viz_1.png)
 ![](Images/viz_2.png)
