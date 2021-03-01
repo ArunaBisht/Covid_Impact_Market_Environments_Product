@@ -8,7 +8,7 @@ Our goal is to leverage our data-driven business model to educate and empower ou
 
 # Approach
 
-The project analyzation is done in two parts -
+The project code and analyzation is done in two parts -
 
 1st part - Which city suits your lifestyle eg. whether you have any preference to live in any specific cultural community or diverse community?.
 
@@ -74,7 +74,7 @@ To install PyViz and its dependencies in your Conda dev environment, complete th
 
 After collecting, cleaning, and manipulating the data, we used jupuyter lab to plot the critical parameters eg. population affecting demand & supply of real estate and hence the real estate prices . 
 
-Examples following image shows that city 'Bakerfield' has high population but lighter in color and hence lower real estate price. Primary because this city is in outskirt and hence real estate price is low and therefore not much profit in renting out.  
+Examples following image shows that- city 'Bakerfield' has high population but still lighter in color and hence lower real estate price. Primary because this city is in outskirt and hence real estate price is low and therefore not much profit in renting out. Similarly, Costa mesa city is small but high population density and hence high real estate price, that's why color shows darker on visualization.
 
 ![](Images/viz_1.png)
 ![](Images/viz_2.png)
