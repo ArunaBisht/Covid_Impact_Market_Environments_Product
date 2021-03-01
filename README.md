@@ -97,6 +97,7 @@ After analyzing correlation on jupyter, we built another interactive dashboard i
 ![](Images/financial_dash_1.png)
 ![](Images/financial_dash_2.png)
 
+
 This dashboard will automatically compare user's input and historical average data, and will recommend whether this city is financially sound to invest in or not.
 ![](Images/result.PNG)
 
