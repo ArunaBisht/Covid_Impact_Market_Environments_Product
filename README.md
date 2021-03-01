@@ -71,15 +71,16 @@ To install PyViz and its dependencies in your Conda dev environment, complete th
 ---
 
 ## Usage
-Part 1st- 
-As a user, you'll be able to input your lifestyle needs on a professionally completed dashboard, which was built using Flask. 
+Part 1st- which city suits user's lifestyle ?.
+
+As a user, you'll be able to input your lifestyle needs on a professionally completed dashboard, which was built using Flask. And, based upon user's preferences, for example- whether user prefer more diverse area or specific community, this dashboard would recommends cities.
 
 ![](Images/lifestyle_dash_1.png)
 ![](Images/lifestyle_dash_2.png)
 
-Part 2nd-
+Part 2nd- why that city is best to invest in?
 
-After collecting, cleaning, and manipulating the data, we used jupuyter lab to plot the critical parameters eg. population affecting demand & supply of real estate and hence the real estate prices . 
+After collecting, cleaning, and manipulating the data, we analyzed the 2nd part financial aspect and researched most critical parameters like population , which affects real estate supply & demand and hence the finance. We used jupuyter lab to find the correlation between the critical parameters eg. population and real estate prices . 
 
 Examples following image shows that- city 'Bakerfield' has the high population but still lighter in color and hence lower real estate price. Primary because this city is in outskirt and hence real estate price is low and therefore not much profit in renting out. Similarly, Costa mesa city is small but high population density and hence high real estate price, that's why color shows darker on visualization.
 
