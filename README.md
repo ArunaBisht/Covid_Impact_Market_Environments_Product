@@ -115,7 +115,3 @@ Limitations - we just took the prototype of few cities and few parameters affect
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-## Contributors
-
-Brought to you by Samual Prutton, Aruna Bisht, Matheus Araujo, Edgar Coronado
-
